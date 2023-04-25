@@ -1,0 +1,20 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontSize": 18,
+    "editor.fontFamily": "'Fira Code Regular', 'Courier New', monospace",
+    "workbench.startupEditor": "none",
+    "editor.tabSize": 2,
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "editor.formatOnPaste": true,
+    "terminal.integrated.letterSpacing": 1,
+    "security.workspace.trust.untrustedFiles": "open",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "terminal.integrated.fontSize": 15,
+    "terminal.integrated.fontWeight": "normal",
+    "terminal.integrated.fontWeightBold": "bold"
+}
